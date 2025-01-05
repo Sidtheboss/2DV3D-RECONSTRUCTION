@@ -1,22 +1,7 @@
 # 2DV3D-RECONSTRUCTION
-This project demonstrates the implementation of face detection and image preprocessing techniques using Python. It combines the power of OpenCV, PyTorch, and NumPy to create a modular and flexible framework for working with image data.
 
-Features
-Image Preprocessing: Includes resizing, normalization, and transformations for machine learning readiness.
-Face Detection: Utilizes Haar Cascade models for efficient face detection in images.
-Modular Design: Clear separation of functionalities, making it easy to extend and adapt for custom applications.
-Interactive Development: Compatible with Google Colab for seamless experimentation and learning.
 
-Getting Started
-The repository is beginner-friendly with detailed step-by-step guidance for running the code in both local and cloud environments (e.g., Colab).
-
-Technologies Used
-->Python
-->OpenCV
-->PyTorch
-->NumPy
-
-# **Image Processing and Detection Project**
+# **Image Processing 2D V 3D reconstruction 🚀**
 
 This repository demonstrates face detection and image preprocessing using Python, leveraging OpenCV, PyTorch, and NumPy. The project is designed for educational purposes and real-world applications in image processing and computer vision.
 
@@ -30,10 +15,29 @@ This repository demonstrates face detection and image preprocessing using Python
 
 ---
 
-## **Installation**
+## **Installation **
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+   git clone https://github.com/Sidtheboss/2DV3D-RECONSTRUCTION/blob/main/reconstruction2d_3d.ipynb
+
+   Install dependencies:
+
+
+2.pip install -r requirements.txt
+
+
+Technologies Used
+1)Python
+2)OpenCV
+3)PyTorch
+4)NumPy
+
+Contributing
+Feel free to fork this repository and submit pull requests. Contributions to improve functionality or extend features are welcome.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
 
