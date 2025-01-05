@@ -15,7 +15,7 @@ This repository demonstrates face detection and image preprocessing using Python
 
 ---
 
-## **Installation **
+## Installation 
 
 1. Clone the repository:
    ```bash
