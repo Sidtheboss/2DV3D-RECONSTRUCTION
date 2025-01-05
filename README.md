@@ -1,4 +1,4 @@
-# 2DV3D-RECONSTRUCTION
+# 2D V 3D - RECONSTRUCTION
 
 
 # **Image Processing 2D V 3D reconstruction 🚀**
@@ -36,8 +36,7 @@ Technologies Used
 Contributing
 Feel free to fork this repository and submit pull requests. Contributions to improve functionality or extend features are welcome.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 
 
