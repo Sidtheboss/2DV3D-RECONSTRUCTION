@@ -21,11 +21,7 @@ This repository demonstrates face detection and image preprocessing using Python
    ```bash
    git clone https://github.com/Sidtheboss/2DV3D-RECONSTRUCTION/blob/main/reconstruction2d_3d.ipynb
 
-   Install dependencies:
-
-
-2.pip install -r requirements.txt
-
+   Install dependencies:pip install -r requirements.txt
 
 Technologies Used
 1)Python
