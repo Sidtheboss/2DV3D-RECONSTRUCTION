@@ -1,9 +1,9 @@
 # 2D V 3D - RECONSTRUCTION
 
 
-# **Image Processing 2D V 3D reconstruction 🚀**
+# **Image Processing reconstruction 🚀**
 
-This repository demonstrates face detection and image preprocessing using Python, leveraging OpenCV, PyTorch, and NumPy. The project is designed for educational purposes and real-world applications in image processing and computer vision.
+This repository demonstrates face detection and image preprocessing using Python, leveraging OpenCV, PyTorch, and NumPy. The project is designed for educational purposes and real-world applications in image processing and computer vision. This repo is done for a research Purpose.
 
 ---
 
